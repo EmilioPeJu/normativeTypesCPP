@@ -1,2 +1,2 @@
-PVDATA = $(SUPPORT)/pvDataCPP/7-0-0
-PVCOMMON = $(SUPPORT)/pvCommonCPP/4-2-3
+SUPPORT = /dls_sw/prod/R3.14.12.7/support
+EPICS_BASE = /dls_sw/epics/R3.14.12.7/base
