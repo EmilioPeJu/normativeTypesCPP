@@ -1,3 +1,2 @@
-EPICS_BASE = /dls_sw/epics/R3.14.12.7/base
-PVCOMMON = /dls_sw/work/R3.14.12.7/support/ADCore-update/pvCommonCPP
-PVDATA = /dls_sw/work/R3.14.12.7/support/ADCore-update/pvDataCPP
+PVDATA = $(SUPPORT)/pvDataCPP/7-0-0
+PVCOMMON = $(SUPPORT)/pvCommonCPP/4-2-3
